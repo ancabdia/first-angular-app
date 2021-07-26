@@ -1,3 +1,9 @@
+This first proyect allows to create a simple todo list, to introduce myself to Angular
+
+![Captura de pantalla 2021-07-26 a las 1 22 44](https://user-images.githubusercontent.com/37101338/126918399-b84bb1e3-40fe-4095-ba1c-ec669a1eb0f6.png)
+
+![Captura de pantalla 2021-07-26 a las 1 21 26](https://user-images.githubusercontent.com/37101338/126918426-f5a264af-04c1-4a21-a34e-ac3756ad93aa.png)
+
 # FirstAngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
